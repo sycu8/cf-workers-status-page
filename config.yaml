@@ -37,3 +37,22 @@ monitors:
     url: 'https://blog.cloudflare.com/'
     method: GET
     expectStatus: 200
+
+  - id: f88
+    name: F88
+    url: 'https://f88.vn'
+    method: GET
+    expectStatus: 200
+
+  - id: selless
+    name: Crossian - Selless.us
+    url: 'https://selless.com/'
+    method: GET
+    expectStatus: 200
+    
+  - id: Gosell
+    name: Gosell
+    url: '  https://www.gosell.biz/'
+    method: GET
+    expectStatus: 200
+  
